@@ -1,8 +1,6 @@
 # frontend-react-intro
 
 ### Exercise 1:
-Don’t pass anything. Only text on screen.
+Create a new create-react-app program. Create a new component. Don’t pass anything. Only text on screen.
 ### Exercise 2:
-Create StudentNames. Pass firstName and lastName.
-### Exercise 3:
-Create StudentNamesArray. Pass it an array of collections of firstNames and lastNames
+Create a new create-react-app program. Create a new component. Create BankAccount. Pass firstName and accountBalance.
